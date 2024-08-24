@@ -21,7 +21,7 @@ This is the backend part of the Password Manager application, built with Node.js
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/password-manager.git
+    git clone https://github.com/akshitasaxena1309/Password-Manager.git
     ```
 2. Navigate to the backend directory:
     ```sh
