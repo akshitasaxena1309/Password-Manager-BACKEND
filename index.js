@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://password-manager-kappa-lilac.vercel.app",
   methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
   Credentials: true,
 };
